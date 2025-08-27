@@ -40,3 +40,5 @@
 .vscode/
 .cph/
 example/
+
+*.pdf
